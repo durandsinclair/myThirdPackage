@@ -1,0 +1,15 @@
+Package: myThirdPackage
+Title: Third demonstration package. Just adds two numbers together
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Durand",
+           family = "Sinclair",
+           role = c("aut", "cre"),
+           email = "durandsinclair@yahoo.com.au",
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: This is a demonstration package to get my speed up. It just adds two numbers together.
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.1
